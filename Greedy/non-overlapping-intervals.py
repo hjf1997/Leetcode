@@ -1,5 +1,6 @@
 from typing import  List
-
+# 72ms 95.77%
+# 16.4MB 40.41%
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
 
